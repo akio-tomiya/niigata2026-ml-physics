@@ -6,7 +6,7 @@
 | ノートブック | 内容 | 講義ノート | Colab |
 |---|---|---|---|
 | `01_ising_metropolis_julia.ipynb` | 2次元イジング模型の Metropolis 法、熱化、⟨\|m\|⟩・χ・Binder キュムラントによる T_c の読み取り、配位データの作成とダウンロード | 第2・3章 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akio-tomiya/niigata2026-ml-physics/blob/main/notebooks/01_ising_metropolis_julia.ipynb) |
-| `02_phase_classification_keras.ipynb` | Keras によるロジスティック回帰・全結合ネット・CNN での相分類、P_ord(T) と T*、分類器が何を見ていたかの確認、交差検証 | 第4〜6章 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akio-tomiya/niigata2026-ml-physics/blob/main/notebooks/02_phase_classification_keras.ipynb) |
+| `02_phase_classification_keras.ipynb` | Keras によるロジスティック回帰・全結合ネット・CNN での相分類、P_ord(T) と T*、分類器が何を見ていたかの確認、交差検証 | 第4・5章 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akio-tomiya/niigata2026-ml-physics/blob/main/notebooks/02_phase_classification_keras.ipynb) |
 
 ## 使い方
 
